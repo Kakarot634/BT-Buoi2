@@ -1,0 +1,13 @@
+D:\BT BUOI2\bin\Debug\netcoreapp3.1\BT BUOI2.exe
+D:\BT BUOI2\bin\Debug\netcoreapp3.1\BT BUOI2.deps.json
+D:\BT BUOI2\bin\Debug\netcoreapp3.1\BT BUOI2.runtimeconfig.json
+D:\BT BUOI2\bin\Debug\netcoreapp3.1\BT BUOI2.runtimeconfig.dev.json
+D:\BT BUOI2\bin\Debug\netcoreapp3.1\BT BUOI2.dll
+D:\BT BUOI2\bin\Debug\netcoreapp3.1\BT BUOI2.pdb
+D:\BT BUOI2\obj\Debug\netcoreapp3.1\BT BUOI2.GeneratedMSBuildEditorConfig.editorconfig
+D:\BT BUOI2\obj\Debug\netcoreapp3.1\BT BUOI2.AssemblyInfoInputs.cache
+D:\BT BUOI2\obj\Debug\netcoreapp3.1\BT BUOI2.AssemblyInfo.cs
+D:\BT BUOI2\obj\Debug\netcoreapp3.1\BT BUOI2.csproj.CoreCompileInputs.cache
+D:\BT BUOI2\obj\Debug\netcoreapp3.1\BT BUOI2.dll
+D:\BT BUOI2\obj\Debug\netcoreapp3.1\BT BUOI2.pdb
+D:\BT BUOI2\obj\Debug\netcoreapp3.1\BT BUOI2.genruntimeconfig.cache
