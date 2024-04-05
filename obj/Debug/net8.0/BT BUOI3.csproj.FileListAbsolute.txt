@@ -1,0 +1,14 @@
+D:\BT BUOI3\bin\Debug\net8.0\BT BUOI3.exe
+D:\BT BUOI3\bin\Debug\net8.0\BT BUOI3.deps.json
+D:\BT BUOI3\bin\Debug\net8.0\BT BUOI3.runtimeconfig.json
+D:\BT BUOI3\bin\Debug\net8.0\BT BUOI3.dll
+D:\BT BUOI3\bin\Debug\net8.0\BT BUOI3.pdb
+D:\BT BUOI3\obj\Debug\net8.0\BT BUOI3.GeneratedMSBuildEditorConfig.editorconfig
+D:\BT BUOI3\obj\Debug\net8.0\BT BUOI3.AssemblyInfoInputs.cache
+D:\BT BUOI3\obj\Debug\net8.0\BT BUOI3.AssemblyInfo.cs
+D:\BT BUOI3\obj\Debug\net8.0\BT BUOI3.csproj.CoreCompileInputs.cache
+D:\BT BUOI3\obj\Debug\net8.0\BT BUOI3.dll
+D:\BT BUOI3\obj\Debug\net8.0\refint\BT BUOI3.dll
+D:\BT BUOI3\obj\Debug\net8.0\BT BUOI3.pdb
+D:\BT BUOI3\obj\Debug\net8.0\BT BUOI3.genruntimeconfig.cache
+D:\BT BUOI3\obj\Debug\net8.0\ref\BT BUOI3.dll
