@@ -1,0 +1,14 @@
+D:\BT BUOI6\bin\Debug\net8.0\BT BUOI6.exe
+D:\BT BUOI6\bin\Debug\net8.0\BT BUOI6.deps.json
+D:\BT BUOI6\bin\Debug\net8.0\BT BUOI6.runtimeconfig.json
+D:\BT BUOI6\bin\Debug\net8.0\BT BUOI6.dll
+D:\BT BUOI6\bin\Debug\net8.0\BT BUOI6.pdb
+D:\BT BUOI6\obj\Debug\net8.0\BT BUOI6.GeneratedMSBuildEditorConfig.editorconfig
+D:\BT BUOI6\obj\Debug\net8.0\BT BUOI6.AssemblyInfoInputs.cache
+D:\BT BUOI6\obj\Debug\net8.0\BT BUOI6.AssemblyInfo.cs
+D:\BT BUOI6\obj\Debug\net8.0\BT BUOI6.csproj.CoreCompileInputs.cache
+D:\BT BUOI6\obj\Debug\net8.0\BT BUOI6.dll
+D:\BT BUOI6\obj\Debug\net8.0\refint\BT BUOI6.dll
+D:\BT BUOI6\obj\Debug\net8.0\BT BUOI6.pdb
+D:\BT BUOI6\obj\Debug\net8.0\BT BUOI6.genruntimeconfig.cache
+D:\BT BUOI6\obj\Debug\net8.0\ref\BT BUOI6.dll
